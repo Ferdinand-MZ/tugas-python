@@ -19,6 +19,7 @@ def hitungTunjangan(golongan, jumlahAnak):
     total_gaji = gaji_pokok + tunjanganAnak
 
     return total_gaji
+
 print("\nPilih Golongan Anda :")
 print("Golongan 1")
 print("Golongan 2")
